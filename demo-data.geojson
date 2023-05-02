@@ -1,0 +1,3569 @@
+{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "iata": "1H0",
+        "title": "Creve Coeur",
+        "city": "St Louis",
+        "state": "MO",
+        "country": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -90.508304,
+          38.72752
+        ],
+        "type": "Point"
+      },
+      "id": "007368963d6d784119c293d845352832"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iata": "0C4",
+        "title": "Pender Municipal",
+        "city": "Pender",
+        "state": "NE",
+        "country": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -96.728925,
+          42.113887
+        ],
+        "type": "Point"
+      },
+      "id": "011fb785049e052ee48c067d498e8480"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iata": "0A9",
+        "title": "Elizabethton Municipal",
+        "city": "Elizabethton",
+        "state": "TN",
+        "country": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -82.173741,
+          36.370943
+        ],
+        "type": "Point"
+      },
+      "id": "01934c26b7ff7665778e8d483436647b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iata": "06C",
+        "title": "Schaumburg",
+        "city": "Chicago/Schaumburg",
+        "state": "IL",
+        "country": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -88.101242,
+          41.98934
+        ],
+        "type": "Point"
+      },
+      "id": "01d540d0d681cb8f1a7db45ea7ca8aaf"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iata": "0K7",
+        "title": "Humboldt Municipal",
+        "city": "Humboldt",
+        "state": "IA",
+        "country": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -94.245241,
+          42.736082
+        ],
+        "type": "Point"
+      },
+      "id": "0409ac4561426ecbd7e740d267912516"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iata": "1S0",
+        "title": "Pierce County",
+        "city": "Puyallup",
+        "state": "WA",
+        "country": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -122.287194,
+          47.103916
+        ],
+        "type": "Point"
+      },
+      "id": "065933fa2eea8f8088b3304bc919039c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iata": "1K9",
+        "title": "Satanta Municipal",
+        "city": "Satanta",
+        "state": "KS",
+        "country": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -100.992111,
+          37.454191
+        ],
+        "type": "Point"
+      },
+      "id": "085c160c7c3e6d58f36af5c08d3b2f71"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iata": "0V2",
+        "title": "Harriet Alexander",
+        "city": "Salida",
+        "state": "CO",
+        "country": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -106.045848,
+          38.539163
+        ],
+        "type": "Point"
+      },
+      "id": "089af3f737a9d6ca02a0537cf546ec30"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iata": "0R7",
+        "title": "Red River",
+        "city": "Coushatta",
+        "state": "LA",
+        "country": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -93.307393,
+          31.990716
+        ],
+        "type": "Point"
+      },
+      "id": "0d71603a28c536993793f3d6424621f4"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iata": "11A",
+        "title": "Clayton Municipal",
+        "city": "Clayton",
+        "state": "AL",
+        "country": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -85.484913,
+          31.883299
+        ],
+        "type": "Point"
+      },
+      "id": "0f8eef64f8e4fc6503ae6d26ff591c34"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iata": "0B8",
+        "title": "Elizabeth",
+        "city": "Fishers Island",
+        "state": "NY",
+        "country": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -72.031611,
+          41.251308
+        ],
+        "type": "Point"
+      },
+      "id": "0f968379936b33d580eac2cf05ddfc11"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iata": "15F",
+        "title": "Haskell Municipal",
+        "city": "Haskell",
+        "state": "TX",
+        "country": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -99.71793,
+          33.191555
+        ],
+        "type": "Point"
+      },
+      "id": "0fd2f7c93c17a16e8e50e77d00d221ec"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iata": "18A",
+        "title": "Franklin County",
+        "city": "Canon",
+        "state": "GA",
+        "country": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -83.133483,
+          34.340104
+        ],
+        "type": "Point"
+      },
+      "id": "1232d5f8f767e87155b2782cbd126aca"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iata": "0V4",
+        "title": "Brookneal/Campbell County",
+        "city": "Brookneal",
+        "state": "VA",
+        "country": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -79.016388,
+          37.141722
+        ],
+        "type": "Point"
+      },
+      "id": "123652e698e794738cbfc4677bc45467"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iata": "12C",
+        "title": "Rochelle Municipal",
+        "city": "Rochelle",
+        "state": "IL",
+        "country": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -89.07829,
+          41.893001
+        ],
+        "type": "Point"
+      },
+      "id": "15981648fb68396ce442253f43efa9fb"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iata": "1L7",
+        "title": "Escalante Municipal",
+        "city": "Escalante",
+        "state": "UT",
+        "country": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.570165,
+          37.745326
+        ],
+        "type": "Point"
+      },
+      "id": "18993cf209979006c4cd9efa07883bc2"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iata": "0R1",
+        "title": "Atmore Municipal",
+        "city": "Atmore",
+        "state": "AL",
+        "country": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.446759,
+          31.016215
+        ],
+        "type": "Point"
+      },
+      "id": "192b468cef23f5ffbe81e197e50f0891"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iata": "0S9",
+        "title": "Jefferson County International",
+        "city": "Port Townsend",
+        "state": "WA",
+        "country": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -122.801279,
+          48.049813
+        ],
+        "type": "Point"
+      },
+      "id": "1b2494f3ffae6afd6f580f27f21540bf"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iata": "0B4",
+        "title": "Hartington Municipal",
+        "city": "Hartington",
+        "state": "NE",
+        "country": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -97.252638,
+          42.603555
+        ],
+        "type": "Point"
+      },
+      "id": "1d2cc2ae2568f21ac2eb3fdbf1c51afc"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iata": "11J",
+        "title": "Early County",
+        "city": "Blakely",
+        "state": "GA",
+        "country": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -84.895256,
+          31.396986
+        ],
+        "type": "Point"
+      },
+      "id": "1d937c26bb81606710d2a01e7f8900c5"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iata": "16A",
+        "title": "Nunapitchuk",
+        "city": "Nunapitchuk",
+        "state": "AK",
+        "country": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -162.439115,
+          60.905828
+        ],
+        "type": "Point"
+      },
+      "id": "20fa69c93dec8b9ea483c081c11a1bc9"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iata": "09J",
+        "title": "Jekyll Island",
+        "city": "Jekyll Island",
+        "state": "GA",
+        "country": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -81.427777,
+          31.074472
+        ],
+        "type": "Point"
+      },
+      "id": "2151021acdd358304b63aff87aee009b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iata": "0Q5",
+        "title": "Shelter Cove",
+        "city": "Shelter Cove",
+        "state": "CA",
+        "country": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -124.073363,
+          40.027643
+        ],
+        "type": "Point"
+      },
+      "id": "2183952405db1e50704fcc57936cff77"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iata": "09K",
+        "title": "Sargent Municipal",
+        "city": "Sargent",
+        "state": "CA",
+        "country": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -99.340381,
+          41.63695
+        ],
+        "type": "Point"
+      },
+      "id": "227c5968f039e593bb01bd307329565b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iata": "15M",
+        "title": "Luka",
+        "city": "Luka",
+        "state": "MS",
+        "country": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -88.165874,
+          34.772312
+        ],
+        "type": "Point"
+      },
+      "id": "237f0a76fd4df73dd0c08dae3b6f3cad"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iata": "17M",
+        "title": "Magee Municipal",
+        "city": "Magee",
+        "state": "MS",
+        "country": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -89.802853,
+          31.861271
+        ],
+        "type": "Point"
+      },
+      "id": "2393b4f0b6b94feabd7db0182875c42e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iata": "1R8",
+        "title": "Bay Minette Municipal",
+        "city": "Bay Minette",
+        "state": "AL",
+        "country": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.817381,
+          30.870462
+        ],
+        "type": "Point"
+      },
+      "id": "23eda739d58804931ad6bb61d4a52ffe"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iata": "1K2",
+        "title": "Lindsay Municipal",
+        "city": "Lindsay",
+        "state": "OK",
+        "country": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -97.58642,
+          34.850073
+        ],
+        "type": "Point"
+      },
+      "id": "24b6e3d45de743bbf8148aa18b46a0df"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iata": "0R4",
+        "title": "Concordia Parish",
+        "city": "Vidalia",
+        "state": "LA",
+        "country": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -91.500118,
+          31.566832
+        ],
+        "type": "Point"
+      },
+      "id": "24edac1678289f9fe77d6ed1c87cf331"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iata": "1K4",
+        "title": "David J. Perry",
+        "city": "Goldsby",
+        "state": "OK",
+        "country": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -97.470393,
+          35.155067
+        ],
+        "type": "Point"
+      },
+      "id": "25842ca4b5a09c687cd0f4fed4c2e926"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iata": "1M1",
+        "title": "North Little Rock Municipal",
+        "city": "No Lit Rock",
+        "state": "AR",
+        "country": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -92.257927,
+          34.83398
+        ],
+        "type": "Point"
+      },
+      "id": "2643e3d8b63ec11ca7b1538e2a1472db"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iata": "1B9",
+        "title": "Mansfield Municipal",
+        "city": "Mansfield",
+        "state": "MA",
+        "country": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -71.196771,
+          42.000133
+        ],
+        "type": "Point"
+      },
+      "id": "26a5d0cf3e9c432849dee252d715aa53"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iata": "0E0",
+        "title": "Moriarty",
+        "city": "Moriarty",
+        "state": "NM",
+        "country": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -106.009466,
+          34.985606
+        ],
+        "type": "Point"
+      },
+      "id": "27f09a85a21f69ebef35ae74ef4eb72d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iata": "1O3",
+        "title": "Lodi",
+        "city": "Lodi",
+        "state": "CA",
+        "country": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -121.268416,
+          38.202416
+        ],
+        "type": "Point"
+      },
+      "id": "28506701f712a83c65f4336690b1f7b7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iata": "1G4",
+        "title": "Grand Canyon West",
+        "city": "Peach Springs",
+        "state": "AZ",
+        "country": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -113.816616,
+          35.99221
+        ],
+        "type": "Point"
+      },
+      "id": "29c1104f072006b62183d67bc54bce2e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iata": "15J",
+        "title": "Cook County",
+        "city": "Adel",
+        "state": "GA",
+        "country": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -83.453083,
+          31.137805
+        ],
+        "type": "Point"
+      },
+      "id": "2a8581f65f5bcb6d428a0d8189e328f7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iata": "12J",
+        "title": "Brewton Municipal",
+        "city": "Brewton",
+        "state": "AL",
+        "country": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.067968,
+          31.051263
+        ],
+        "type": "Point"
+      },
+      "id": "2b4d846647ded3108f96d60c0aa59c1e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iata": "1D8",
+        "title": "Redfield Municipal",
+        "city": "Redfield",
+        "state": "SD",
+        "country": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -98.529539,
+          44.862476
+        ],
+        "type": "Point"
+      },
+      "id": "2b561ace7fc34263657b6a4ac7df861e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iata": "1F0",
+        "title": "Downtown Ardmore",
+        "city": "Ardmore",
+        "state": "OK",
+        "country": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -97.122651,
+          34.146989
+        ],
+        "type": "Point"
+      },
+      "id": "2bf733f985c9ac422ef735cfdf3b956f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iata": "06A",
+        "title": "Moton  Municipal",
+        "city": "Tuskegee",
+        "state": "AL",
+        "country": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -85.680036,
+          32.460471
+        ],
+        "type": "Point"
+      },
+      "id": "2fab35e5643d3c73e5d94afe70f2e966"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iata": "0R0",
+        "title": "Columbia-Marion County",
+        "city": "Columbia",
+        "state": "MS",
+        "country": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -89.812829,
+          31.297008
+        ],
+        "type": "Point"
+      },
+      "id": "3543e657040e187774ce7dee537b5680"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iata": "02G",
+        "title": "Columbiana County",
+        "city": "East Liverpool",
+        "state": "OH",
+        "country": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -80.641406,
+          40.673312
+        ],
+        "type": "Point"
+      },
+      "id": "3848756bcec0fca5702ad9b30c437add"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iata": "0O3",
+        "title": "Calaveras Co-Maury Rasmussen",
+        "city": "San Andreas",
+        "state": "CA",
+        "country": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -120.648173,
+          38.146116
+        ],
+        "type": "Point"
+      },
+      "id": "39e2841438fad07b93ccc45de9f6f171"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iata": "1R1",
+        "title": "Jena",
+        "city": "Jena",
+        "state": "LA",
+        "country": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -92.158467,
+          31.671005
+        ],
+        "type": "Point"
+      },
+      "id": "3ac7bb940ab60993804f30c0f8d78a4c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iata": "0L9",
+        "title": "Echo Bay",
+        "city": "Overton",
+        "state": "NV",
+        "country": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -114.463867,
+          36.311089
+        ],
+        "type": "Point"
+      },
+      "id": "3adb53b0a572809197e10ef8b8d80302"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iata": "0M0",
+        "title": "Dumas Municipal",
+        "city": "Dumas",
+        "state": "AR",
+        "country": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -91.534291,
+          33.884547
+        ],
+        "type": "Point"
+      },
+      "id": "3c2d89041b1a6424c4397351e496d096"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iata": "00V",
+        "title": "Meadow Lake",
+        "city": "Colorado Springs",
+        "state": "CO",
+        "country": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -104.569893,
+          38.945748
+        ],
+        "type": "Point"
+      },
+      "id": "3cff0af9553774840e620671e9338d3b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iata": "1V0",
+        "title": "Navajo State Park",
+        "city": "Navajo Dam",
+        "state": "NM",
+        "country": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -107.651444,
+          36.808338
+        ],
+        "type": "Point"
+      },
+      "id": "3d878a12aa690e5ecea79ae2b679cb0d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iata": "1D2",
+        "title": "Canton -Plymouth -  Mettetal",
+        "city": "Plymouth",
+        "state": "MI",
+        "country": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -83.458268,
+          42.350036
+        ],
+        "type": "Point"
+      },
+      "id": "3d8c9b5341da0f223183c565cc39c253"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iata": "1F9",
+        "title": "Bridgeport Municipal",
+        "city": "Bridgeport",
+        "state": "TX",
+        "country": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -97.828388,
+          33.175333
+        ],
+        "type": "Point"
+      },
+      "id": "3eb4c99695b7de44fb285438785998e8"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iata": "04Y",
+        "title": "Hawley Municipal",
+        "city": "Hawley",
+        "state": "MN",
+        "country": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -96.350898,
+          46.883848
+        ],
+        "type": "Point"
+      },
+      "id": "3fa4117d39b2b0f2ae2d73ca3ed48bc7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iata": "16G",
+        "title": "Seneca County",
+        "city": "Tiffin",
+        "state": "OH",
+        "country": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -83.2125,
+          41.094055
+        ],
+        "type": "Point"
+      },
+      "id": "40a3ec3c55b1055781dc091334dcaefa"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iata": "07K",
+        "title": "Central City Municipal",
+        "city": "Central City",
+        "state": "NE",
+        "country": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -98.050336,
+          41.11668
+        ],
+        "type": "Point"
+      },
+      "id": "42f912d3f47de2d46fb28890b570da85"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iata": "05U",
+        "title": "Eureka",
+        "city": "Eureka",
+        "state": "NV",
+        "country": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -116.005059,
+          39.604166
+        ],
+        "type": "Point"
+      },
+      "id": "45146870e2c03bce2638b6854ed9deb7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iata": "0F9",
+        "title": "Tishomingo Airpark",
+        "city": "Tishomingo",
+        "state": "OK",
+        "country": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -96.675556,
+          34.195928
+        ],
+        "type": "Point"
+      },
+      "id": "4571c509773910d26e1d21611d9b3587"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iata": "19M",
+        "title": "C A Moore",
+        "city": "Lexington",
+        "state": "MS",
+        "country": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -90.025556,
+          33.125461
+        ],
+        "type": "Point"
+      },
+      "id": "4695c305f710cc0b1a42b87b670014d5"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iata": "14M",
+        "title": "Hollandale Municipal",
+        "city": "Hollandale",
+        "state": "MS",
+        "country": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -90.830654,
+          33.182621
+        ],
+        "type": "Point"
+      },
+      "id": "48647a6102d3d1483b826fdd40184149"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iata": "0M4",
+        "title": "Benton County",
+        "city": "Camden",
+        "state": "TN",
+        "country": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -88.123288,
+          36.011226
+        ],
+        "type": "Point"
+      },
+      "id": "48961d3ab7eff9e78794cf0df1032c52"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iata": "1A5",
+        "title": "Macon County",
+        "city": "Franklin",
+        "state": "NC",
+        "country": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -83.419043,
+          35.222595
+        ],
+        "type": "Point"
+      },
+      "id": "4a59bff1e9306bcaa40a10579a518ad1"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iata": "0V7",
+        "title": "Kayenta",
+        "city": "Kayenta",
+        "state": "AZ",
+        "country": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -110.236797,
+          36.709721
+        ],
+        "type": "Point"
+      },
+      "id": "4a82642e9717ed9a8357210ca7584b97"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iata": "14Y",
+        "title": "Todd Field",
+        "city": "Long Prairie",
+        "state": "MN",
+        "country": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -94.87391,
+          45.898575
+        ],
+        "type": "Point"
+      },
+      "id": "4d87bc33796bfd92b8ba83db33d06124"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iata": "1B3",
+        "title": "Fair Haven",
+        "city": "Fair Haven",
+        "state": "VT",
+        "country": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -73.274555,
+          43.615343
+        ],
+        "type": "Point"
+      },
+      "id": "4d91af9739927fbda39003a753b287ad"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iata": "17K",
+        "title": "Boise City",
+        "city": "Boise City",
+        "state": "OK",
+        "country": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -102.510436,
+          36.7743
+        ],
+        "type": "Point"
+      },
+      "id": "513519556935417f00d634b5eb3ebc07"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iata": "1A6",
+        "title": "Middlesboro-Bell County",
+        "city": "Middlesboro",
+        "state": "KY",
+        "country": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -83.737416,
+          36.610637
+        ],
+        "type": "Point"
+      },
+      "id": "54bf8e257390cdda9bb97b8c585e91f0"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iata": "06U",
+        "title": "Jackpot/Hayden",
+        "city": "Jackpot",
+        "state": "NV",
+        "country": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -114.658091,
+          41.976022
+        ],
+        "type": "Point"
+      },
+      "id": "556ee7544bb1545d004727700c18052f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iata": "10G",
+        "title": "Holmes County",
+        "city": "Millersburg",
+        "state": "OH",
+        "country": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -81.954361,
+          40.537166
+        ],
+        "type": "Point"
+      },
+      "id": "565410e05239774f9db2d5ba94e14063"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iata": "17G",
+        "title": "Port Bucyrus-Crawford County",
+        "city": "Bucyrus",
+        "state": "OH",
+        "country": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -82.974694,
+          40.781416
+        ],
+        "type": "Point"
+      },
+      "id": "5a3dcc86784beb03c773a69165ada7a3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iata": "06D",
+        "title": "Rolla Municipal",
+        "city": "Rolla",
+        "state": "ND",
+        "country": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -99.620876,
+          48.884341
+        ],
+        "type": "Point"
+      },
+      "id": "5ad938053122420e6fe09deee8a260b0"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iata": "0Q6",
+        "title": "Shingletown",
+        "city": "Shingletown",
+        "state": "CA",
+        "country": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -121.817768,
+          40.522101
+        ],
+        "type": "Point"
+      },
+      "id": "5b96edaf2ddea244a67003213ed45164"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iata": "1D7",
+        "title": "Webster Municipal",
+        "city": "Webster",
+        "state": "SD",
+        "country": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -97.513698,
+          45.293291
+        ],
+        "type": "Point"
+      },
+      "id": "5c37dc2d04b1f60d4a62510c46ca79b6"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iata": "1O6",
+        "title": "Dunsmuir Municipal-Mott",
+        "city": "Dunsmuir",
+        "state": "CA",
+        "country": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -122.271952,
+          41.263208
+        ],
+        "type": "Point"
+      },
+      "id": "5d743d4dbcbafd5d7a197644a27d818a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iata": "1MO",
+        "title": "Mountain Grove Memorial",
+        "city": "Mountain Grove",
+        "state": "MO",
+        "country": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -92.311245,
+          37.120718
+        ],
+        "type": "Point"
+      },
+      "id": "5dfd2ce79e219fb8c2420b32f27bd9c5"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iata": "1N4",
+        "title": "Woodbine Muni",
+        "city": "Woodbine",
+        "state": "NJ",
+        "country": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -74.794765,
+          39.21915
+        ],
+        "type": "Point"
+      },
+      "id": "5eaa5cd009fb2755599334c46a83b5fb"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iata": "1O1",
+        "title": "Grandfield Municipal",
+        "city": "Grandfield",
+        "state": "OK",
+        "country": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -98.742009,
+          34.237589
+        ],
+        "type": "Point"
+      },
+      "id": "5f40bf8866355cb5ce30a876bdced54b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iata": "15Z",
+        "title": "McCarthy 2",
+        "city": "McCarthy",
+        "state": "AK",
+        "country": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -142.903737,
+          61.43706
+        ],
+        "type": "Point"
+      },
+      "id": "5fa3cf5860a2449c5187f9ebdeb57996"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iata": "06M",
+        "title": "Eupora Municipal",
+        "city": "Eupora",
+        "state": "MS",
+        "country": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -89.312569,
+          33.534565
+        ],
+        "type": "Point"
+      },
+      "id": "5fb91a2fb964309fec41aaaa8c16afbd"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iata": "07G",
+        "title": "Fitch H Beach",
+        "city": "Charlotte",
+        "state": "MI",
+        "country": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -84.811431,
+          42.574508
+        ],
+        "type": "Point"
+      },
+      "id": "60605f713c73f528f204336573bc4a61"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iata": "18I",
+        "title": "McCreary County",
+        "city": "Pine Knot",
+        "state": "KY",
+        "country": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -84.391603,
+          36.695913
+        ],
+        "type": "Point"
+      },
+      "id": "61810e0674eb475e737fdb5a617e6753"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iata": "1A9",
+        "title": "Autauga County",
+        "city": "Prattville",
+        "state": "AL",
+        "country": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -86.510447,
+          32.438775
+        ],
+        "type": "Point"
+      },
+      "id": "624c49250b67201e11cb8a9523b771a2"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iata": "0F8",
+        "title": "William R Pogue Municipal",
+        "city": "Sand Springs",
+        "state": "OK",
+        "country": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -96.15181,
+          36.17528
+        ],
+        "type": "Point"
+      },
+      "id": "6371e68bcb13ee5eb30923857006358c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iata": "0M8",
+        "title": "Byerley",
+        "city": "Lake Providence",
+        "state": "LA",
+        "country": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -91.187665,
+          32.825879
+        ],
+        "type": "Point"
+      },
+      "id": "65a8d15ba70c27a683fe47e839a1d710"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iata": "0M6",
+        "title": "Panola County",
+        "city": "Batesville",
+        "state": "MS",
+        "country": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -89.900089,
+          34.366774
+        ],
+        "type": "Point"
+      },
+      "id": "66edd7677dc703739b7960c30fb9b574"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iata": "0G0",
+        "title": "North Buffalo Suburban",
+        "city": "Lockport",
+        "state": "NY",
+        "country": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -78.703345,
+          43.103183
+        ],
+        "type": "Point"
+      },
+      "id": "673bbb2e819bc7fa317f6a65bfba3a0e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iata": "1G6",
+        "title": "Michael",
+        "city": "Cicero",
+        "state": "NY",
+        "country": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -76.127777,
+          43.181666
+        ],
+        "type": "Point"
+      },
+      "id": "698265d85f937a61c0559edaad864617"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iata": "09M",
+        "title": "Charleston Municipal",
+        "city": "Charleston",
+        "state": "MS",
+        "country": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -90.078145,
+          33.991502
+        ],
+        "type": "Point"
+      },
+      "id": "6a9515badb9724372bed93a08267fad5"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iata": "17N",
+        "title": "Cross Keys",
+        "city": "Cross Keys",
+        "state": "NJ",
+        "country": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -75.033003,
+          39.705475
+        ],
+        "type": "Point"
+      },
+      "id": "6bc8e918c8c09b57752ff3bfdade73fa"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iata": "0D8",
+        "title": "Gettysburg Municipal",
+        "city": "Gettysburg",
+        "state": "SD",
+        "country": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -99.9535,
+          44.987305
+        ],
+        "type": "Point"
+      },
+      "id": "6c0ebbfbbbd5c5b70408f8f471e6c1af"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iata": "02C",
+        "title": "Capitol",
+        "city": "Brookfield",
+        "state": "WI",
+        "country": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -88.177869,
+          43.08751
+        ],
+        "type": "Point"
+      },
+      "id": "6cad51eaebef7971b28c0e0306df3dbf"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iata": "0B1",
+        "title": "Col. Dyke",
+        "city": "Bethel",
+        "state": "ME",
+        "country": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -70.807847,
+          44.425064
+        ],
+        "type": "Point"
+      },
+      "id": "6d883446427217754d43b61c1d82d7b4"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iata": "04M",
+        "title": "Calhoun County",
+        "city": "Pittsboro",
+        "state": "MS",
+        "country": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -89.342851,
+          33.930112
+        ],
+        "type": "Point"
+      },
+      "id": "6df5eac127dfe58c49af22d54451e686"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iata": "0V3",
+        "title": "Pioneer Village",
+        "city": "Minden",
+        "state": "NE",
+        "country": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -98.94565,
+          40.514912
+        ],
+        "type": "Point"
+      },
+      "id": "6e24dc90d3f2d98ad0b99daa9d5cd4e2"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iata": "12K",
+        "title": "Superior Municipal",
+        "city": "Superior",
+        "state": "NE",
+        "country": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -98.060111,
+          40.046361
+        ],
+        "type": "Point"
+      },
+      "id": "704a766ab68f1a17a5d3b14cd0690466"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iata": "17Z",
+        "title": "Manokotak",
+        "city": "Manokotak",
+        "state": "AK",
+        "country": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -159.049973,
+          58.988965
+        ],
+        "type": "Point"
+      },
+      "id": "7109fbd0bb5cef85e47843d33279123c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iata": "0F4",
+        "title": "Loup City Municipal",
+        "city": "Loup City",
+        "state": "NE",
+        "country": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -98.990642,
+          41.290286
+        ],
+        "type": "Point"
+      },
+      "id": "74497b95d88d5163127461ebf1493465"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iata": "13K",
+        "title": "Eureka Municipal",
+        "city": "Eureka",
+        "state": "KS",
+        "country": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -96.291698,
+          37.851582
+        ],
+        "type": "Point"
+      },
+      "id": "760e770478b708806aa414703cba7069"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iata": "05F",
+        "title": "Gatesville - City/County",
+        "city": "Gatesville",
+        "state": "TX",
+        "country": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -97.796967,
+          31.421275
+        ],
+        "type": "Point"
+      },
+      "id": "771a9d7893451cfeb890095ac9e47b18"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iata": "0J0",
+        "title": "Abbeville Municipal",
+        "city": "Abbeville",
+        "state": "AL",
+        "country": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -85.238822,
+          31.600167
+        ],
+        "type": "Point"
+      },
+      "id": "7811477d5428eed5e006c1ab07ccb9a2"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iata": "08D",
+        "title": "Stanley Municipal",
+        "city": "Stanley",
+        "state": "ND",
+        "country": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -102.406351,
+          48.300798
+        ],
+        "type": "Point"
+      },
+      "id": "78169f7b921842f3b9cf54c8396adbc4"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iata": "1U7",
+        "title": "Bear Lake County",
+        "city": "Paris",
+        "state": "ID",
+        "country": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.33826,
+          42.247149
+        ],
+        "type": "Point"
+      },
+      "id": "78d83ccf7de9354472838b289723be08"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iata": "0G7",
+        "title": "Finger Lakes Regional",
+        "city": "Seneca Falls",
+        "state": "NY",
+        "country": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -76.78162,
+          42.880622
+        ],
+        "type": "Point"
+      },
+      "id": "795be56cb5f8b9ad157a1d3a859eed39"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iata": "16S",
+        "title": "Myrtle Creek Municipal",
+        "city": "Myrtle Creek",
+        "state": "OR",
+        "country": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -123.309509,
+          42.99845
+        ],
+        "type": "Point"
+      },
+      "id": "79a2d7f2a8da40a1136b16d8cfef2582"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iata": "1G0",
+        "title": "Wood County",
+        "city": "Bowling Green",
+        "state": "OH",
+        "country": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -83.630138,
+          41.391
+        ],
+        "type": "Point"
+      },
+      "id": "79d07d35fa60888f663660e97368bedc"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iata": "16J",
+        "title": "Dawson Municipal",
+        "city": "Dawson",
+        "state": "GA",
+        "country": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -84.419285,
+          31.743284
+        ],
+        "type": "Point"
+      },
+      "id": "7ad4564c0b8cc492a2d0a8937d6d1689"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iata": "1S3",
+        "title": "Tillitt",
+        "city": "Forsyth",
+        "state": "MT",
+        "country": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -106.62392,
+          46.271106
+        ],
+        "type": "Point"
+      },
+      "id": "7b26f85fa149a4b9680852ab6aaa988b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iata": "1B0",
+        "title": "Dexter Regional",
+        "city": "Dexter",
+        "state": "ME",
+        "country": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -69.239767,
+          45.008394
+        ],
+        "type": "Point"
+      },
+      "id": "7c865dd785b27c20fee625ab57acd6bb"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iata": "1B1",
+        "title": "Columbia Cty",
+        "city": "Hudson",
+        "state": "NY",
+        "country": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -73.710319,
+          42.2913
+        ],
+        "type": "Point"
+      },
+      "id": "7d3641d5d47aa0df20202fed17aeccfc"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iata": "1A7",
+        "title": "Jackson County",
+        "city": "Gainesboro",
+        "state": "TN",
+        "country": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -85.641642,
+          36.397281
+        ],
+        "type": "Point"
+      },
+      "id": "7e9b1451a883dfd85034e27b0bb3b243"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iata": "1L1",
+        "title": "Lincoln Co",
+        "city": "Panaca",
+        "state": "NV",
+        "country": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -114.421656,
+          37.787464
+        ],
+        "type": "Point"
+      },
+      "id": "7ef867216da9c3e8410415e70bf27b75"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iata": "05C",
+        "title": "Griffith-Merrillville",
+        "city": "Griffith",
+        "state": "IN",
+        "country": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.401093,
+          41.519619
+        ],
+        "type": "Point"
+      },
+      "id": "8044c85bd5dd0bb1e274e9189ac62065"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iata": "11D",
+        "title": "Clarion Cty",
+        "city": "Clarion",
+        "state": "PA",
+        "country": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -79.440989,
+          41.225812
+        ],
+        "type": "Point"
+      },
+      "id": "820007d2b9010ade39d0da836f7f85cd"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iata": "1H8",
+        "title": "Casey Municipal",
+        "city": "Casey",
+        "state": "IL",
+        "country": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -88.004061,
+          39.302509
+        ],
+        "type": "Point"
+      },
+      "id": "82de515e1fef63f2ff1640201ddc5882"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iata": "08A",
+        "title": "Wetumpka Municipal",
+        "city": "Wetumpka",
+        "state": "AL",
+        "country": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -86.328221,
+          32.529439
+        ],
+        "type": "Point"
+      },
+      "id": "8467a50ca43cd56aab0af8cdcfe01bf5"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iata": "0D1",
+        "title": "South Haven Municipal",
+        "city": "South Haven",
+        "state": "MI",
+        "country": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -86.256138,
+          42.350833
+        ],
+        "type": "Point"
+      },
+      "id": "85f265534df67fc31f47fc1e0156ac0b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iata": "1L9",
+        "title": "Parowan",
+        "city": "Parowan",
+        "state": "UT",
+        "country": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -112.816055,
+          37.859696
+        ],
+        "type": "Point"
+      },
+      "id": "85f574e5e36bd069caaa5cbd8bb00354"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iata": "12Y",
+        "title": "Le Sueur Municipal",
+        "city": "Le Sueur",
+        "state": "MN",
+        "country": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -93.91274,
+          44.437464
+        ],
+        "type": "Point"
+      },
+      "id": "8663d1a9287256d50349edf88bafa654"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iata": "19P",
+        "title": "Port Protection SPB",
+        "city": "Port Protection",
+        "state": "AK",
+        "country": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -133.610084,
+          56.328804
+        ],
+        "type": "Point"
+      },
+      "id": "87f81466f8b9048c0f5a7a30e7295c06"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iata": "0V6",
+        "title": "Mission Sioux",
+        "city": "Mission",
+        "state": "SD",
+        "country": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -100.628193,
+          43.306947
+        ],
+        "type": "Point"
+      },
+      "id": "88927ea5c9dd0c7c41ef7bec161c7a93"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iata": "0R3",
+        "title": "Abbeville Chris Crusta Memorial",
+        "city": "Abbeville",
+        "state": "LA",
+        "country": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -92.084151,
+          29.97576
+        ],
+        "type": "Point"
+      },
+      "id": "8b9fccae16f160a613b00fdae95ec1be"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iata": "19N",
+        "title": "Camden",
+        "city": "Berlin",
+        "state": "NJ",
+        "country": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -74.947803,
+          39.77842
+        ],
+        "type": "Point"
+      },
+      "id": "8ba3c6aee9e5509b9da5b567cba77eae"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iata": "0B7",
+        "title": "Warren-Sugar Bush",
+        "city": "Warren",
+        "state": "VT",
+        "country": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -72.827058,
+          44.116727
+        ],
+        "type": "Point"
+      },
+      "id": "8e27b18cb5ebd01c0ce99494fdc38713"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iata": "1M7",
+        "title": "Fulton",
+        "city": "Fulton",
+        "state": "KY",
+        "country": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -88.915616,
+          36.525894
+        ],
+        "type": "Point"
+      },
+      "id": "8e85fa2474f0459fe8aec1fb761c9701"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iata": "1K5",
+        "title": "Waynoka Municipal",
+        "city": "Waynoka",
+        "state": "OK",
+        "country": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -98.852313,
+          36.5667
+        ],
+        "type": "Point"
+      },
+      "id": "8ee98cdc0c8fb83a7e9c0598b83c6cec"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iata": "1N2",
+        "title": "Spadaro",
+        "city": "East Moriches",
+        "state": "NY",
+        "country": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -72.74871,
+          40.827876
+        ],
+        "type": "Point"
+      },
+      "id": "8f68306af498a5929e6ceceeb6f0888a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iata": "0A8",
+        "title": "Bibb County",
+        "city": "Centreville",
+        "state": "AL",
+        "country": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.088883,
+          32.93679
+        ],
+        "type": "Point"
+      },
+      "id": "98f1b98562830044fdc4ee2fafa03761"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iata": "0G6",
+        "title": "Williams County",
+        "city": "Bryan",
+        "state": "OH",
+        "country": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -84.506555,
+          41.467361
+        ],
+        "type": "Point"
+      },
+      "id": "9b3972d330e88cb8858903819a465d3f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iata": "1H2",
+        "title": "Effingham County Memorial",
+        "city": "Effingham",
+        "state": "IL",
+        "country": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -88.533519,
+          39.07045
+        ],
+        "type": "Point"
+      },
+      "id": "a030b23e2ef96a696466c31774eb2ec1"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iata": "1J0",
+        "title": "Tri-County",
+        "city": "Bonifay",
+        "state": "FL",
+        "country": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -85.601388,
+          30.845777
+        ],
+        "type": "Point"
+      },
+      "id": "a3041f75fed2885d8e20318bd4c397ac"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iata": "19A",
+        "title": "Jackson County",
+        "city": "Jefferson",
+        "state": "GA",
+        "country": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -83.560665,
+          34.174024
+        ],
+        "type": "Point"
+      },
+      "id": "a3230df0b0777a8389d6f1b2b2d83cdc"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iata": "07C",
+        "title": "Dekalb County",
+        "city": "Auburn",
+        "state": "IN",
+        "country": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -85.064333,
+          41.307166
+        ],
+        "type": "Point"
+      },
+      "id": "a4898d8371a2283e466a7256877150c4"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iata": "13C",
+        "title": "Lakeview",
+        "city": "Lakeview",
+        "state": "MI",
+        "country": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -85.264803,
+          43.452137
+        ],
+        "type": "Point"
+      },
+      "id": "a83ab7a2cbec280e3923e741858879d2"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iata": "1S6",
+        "title": "Priest River Muni",
+        "city": "Priest River",
+        "state": "ID",
+        "country": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -116.909364,
+          48.190186
+        ],
+        "type": "Point"
+      },
+      "id": "a8c46219b3e9927507b82cc8766916ff"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iata": "17J",
+        "title": "Donalsonville Municipal",
+        "city": "Donalsonville",
+        "state": "GA",
+        "country": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -84.877611,
+          31.006944
+        ],
+        "type": "Point"
+      },
+      "id": "ab4b4f1abd8690253c3e3b3615d2a75f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iata": "1F4",
+        "title": "Madill Municipal",
+        "city": "Madill",
+        "state": "OK",
+        "country": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -96.812032,
+          34.140401
+        ],
+        "type": "Point"
+      },
+      "id": "ab696462a9579b898e0a5fabcaf20105"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iata": "0AK",
+        "title": "Pilot Station",
+        "city": "Pilot Station",
+        "state": "AK",
+        "country": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -162.892935,
+          61.933964
+        ],
+        "type": "Point"
+      },
+      "id": "ac3f58b0971738b290d22e0e283275ae"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iata": "11IS",
+        "title": "Schaumburg Heliport",
+        "city": "Chicago/Schaumburg",
+        "state": "IL",
+        "country": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -88.052571,
+          42.048082
+        ],
+        "type": "Point"
+      },
+      "id": "ac82b182913d5a55bfe7c2d319830ed3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iata": "13N",
+        "title": "Trinca",
+        "city": "Andover",
+        "state": "NJ",
+        "country": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -74.780165,
+          40.966764
+        ],
+        "type": "Point"
+      },
+      "id": "ae62a16e06f31760af9cc09bef2f78a8"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iata": "01G",
+        "title": "Perry-Warsaw",
+        "city": "Perry",
+        "state": "NY",
+        "country": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -78.05208,
+          42.741346
+        ],
+        "type": "Point"
+      },
+      "id": "ae9496716a75118948bd9e8aba1679a4"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iata": "1D1",
+        "title": "Milbank Municipal",
+        "city": "Milbank",
+        "state": "SD",
+        "country": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -96.565965,
+          45.230538
+        ],
+        "type": "Point"
+      },
+      "id": "afa216e69d82ffb46240723d3d9c5ab1"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iata": "1G5",
+        "title": "Freedom",
+        "city": "Medina",
+        "state": "OH",
+        "country": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -81.764916,
+          41.131444
+        ],
+        "type": "Point"
+      },
+      "id": "b066ab920ca0b40f3e6933010ec06022"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iata": "1M5",
+        "title": "Portland Municipal",
+        "city": "Portland",
+        "state": "TN",
+        "country": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -86.47691,
+          36.592875
+        ],
+        "type": "Point"
+      },
+      "id": "b0a8d521620d53760c23383bf9879f75"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iata": "11R",
+        "title": "Brenham Municipal",
+        "city": "Brenham",
+        "state": "TX",
+        "country": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -96.374277,
+          30.219
+        ],
+        "type": "Point"
+      },
+      "id": "b0e00f32f019d81193dc6694e7d661bf"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iata": "09W",
+        "title": "South Capitol Street",
+        "city": "Washington",
+        "state": "DC",
+        "country": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.007475,
+          38.868723
+        ],
+        "type": "Point"
+      },
+      "id": "b20f55d4f6fa109b052b04822ac1e22c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iata": "0S7",
+        "title": "Dorothy Scott",
+        "city": "Oroville",
+        "state": "WA",
+        "country": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -119.411962,
+          48.958965
+        ],
+        "type": "Point"
+      },
+      "id": "b225cb1e360d524ccf566df1d866fd2d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iata": "06N",
+        "title": "Randall",
+        "city": "Middletown",
+        "state": "NY",
+        "country": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -74.391917,
+          41.431565
+        ],
+        "type": "Point"
+      },
+      "id": "b364929d7ae03d585eb1abc373fd7662"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iata": "1ND3",
+        "title": "Hamry",
+        "city": "Kindred",
+        "state": "ND",
+        "country": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -97.005643,
+          46.648577
+        ],
+        "type": "Point"
+      },
+      "id": "b6db1fe9ec8c22ceaf79809541266efe"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iata": "0L7",
+        "title": "Jean",
+        "city": "Jean",
+        "state": "NV",
+        "country": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -115.329637,
+          35.768272
+        ],
+        "type": "Point"
+      },
+      "id": "b75cd31dae9876444c3a80f0c4e623a9"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iata": "0M5",
+        "title": "Humphreys County",
+        "city": "Waverly",
+        "state": "TN",
+        "country": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.738158,
+          36.116599
+        ],
+        "type": "Point"
+      },
+      "id": "b81a1742ff4ea81f384dedf1d3f504a3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iata": "1D6",
+        "title": "Hector Municipal",
+        "city": "Hector",
+        "state": "MN",
+        "country": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -94.714713,
+          44.731072
+        ],
+        "type": "Point"
+      },
+      "id": "b8e5450fcef340288bdf795ce1ff77e2"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iata": "10C",
+        "title": "Galt",
+        "city": "Chicago/Greenwood/Wonderlake",
+        "state": "IL",
+        "country": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -88.375889,
+          42.402664
+        ],
+        "type": "Point"
+      },
+      "id": "ba17102b55febed503fbd7deb6d86cb7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iata": "01M",
+        "title": "Tishomingo County",
+        "city": "Belmont",
+        "state": "MS",
+        "country": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -88.201111,
+          34.491666
+        ],
+        "type": "Point"
+      },
+      "id": "baa5921ecd4145473eb34aa8ad0eaf12"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iata": "1M2",
+        "title": "Belzoni Municipal",
+        "city": "Belzoni",
+        "state": "MS",
+        "country": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -90.515284,
+          33.14518
+        ],
+        "type": "Point"
+      },
+      "id": "bba7b66484a6db5f3131b422459404bc"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iata": "08K",
+        "title": "Harvard State",
+        "city": "Harvard",
+        "state": "NE",
+        "country": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -98.079786,
+          40.651385
+        ],
+        "type": "Point"
+      },
+      "id": "bbaf49200e24ede5e0c10e4a930af0bf"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iata": "0O5",
+        "title": "University",
+        "city": "Davis",
+        "state": "NE",
+        "country": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -121.78649,
+          38.531462
+        ],
+        "type": "Point"
+      },
+      "id": "bbc47820e8bcd367e903bb6d5b538bab"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iata": "0F2",
+        "title": "Bowie Municipal",
+        "city": "Bowie",
+        "state": "TX",
+        "country": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -97.77556,
+          33.601666
+        ],
+        "type": "Point"
+      },
+      "id": "bc4800a767629f944e2e71a46db5b4c6"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iata": "0H1",
+        "title": "Trego Wakeeney",
+        "city": "Wakeeney",
+        "state": "KS",
+        "country": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -99.892899,
+          39.004452
+        ],
+        "type": "Point"
+      },
+      "id": "bd2b2ad66a222f1c3a996218a127f2f7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iata": "0J6",
+        "title": "Headland Municipal",
+        "city": "Headland",
+        "state": "AL",
+        "country": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -85.309655,
+          31.364895
+        ],
+        "type": "Point"
+      },
+      "id": "bd594e3f7c627c49010adbb29ec80ba3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iata": "10D",
+        "title": "Winsted Municipal",
+        "city": "Winsted",
+        "state": "MN",
+        "country": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -94.066917,
+          44.949962
+        ],
+        "type": "Point"
+      },
+      "id": "bf714708f4882bff2c07e3607311d0e5"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iata": "0G3",
+        "title": "Tecumseh Municipal",
+        "city": "Tecumseh",
+        "state": "NE",
+        "country": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -96.171396,
+          40.399444
+        ],
+        "type": "Point"
+      },
+      "id": "c66c6d920d8ae14d742f3fc96cfd8fac"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iata": "00M",
+        "title": "Thigpen",
+        "city": "Bay Springs",
+        "state": "MS",
+        "country": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -89.234504,
+          31.953764
+        ],
+        "type": "Point"
+      },
+      "id": "c677689acbf4991607db27b63fff5e76"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iata": "0R5",
+        "title": "David G Joyce",
+        "city": "Winnfield",
+        "state": "LA",
+        "country": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -92.66026,
+          31.963662
+        ],
+        "type": "Point"
+      },
+      "id": "c9d67d9ceb9f9804c91184cb598c5efd"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iata": "10N",
+        "title": "Wallkill",
+        "city": "Wallkill",
+        "state": "NY",
+        "country": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -74.133755,
+          41.627871
+        ],
+        "type": "Point"
+      },
+      "id": "caf8d9e9d4182abee37a578eeccd3f4d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iata": "0J4",
+        "title": "Florala Municipal",
+        "city": "Florala",
+        "state": "AL",
+        "country": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -86.311561,
+          31.042473
+        ],
+        "type": "Point"
+      },
+      "id": "cc01caa30378f601a48ad36368915dca"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iata": "1V2",
+        "title": "Grant County",
+        "city": "Hyannis",
+        "state": "NE",
+        "country": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -101.769343,
+          42.009429
+        ],
+        "type": "Point"
+      },
+      "id": "ce4d5df00efecc7ce171ce6178db50da"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iata": "0M1",
+        "title": "Scott",
+        "city": "Parsons",
+        "state": "TN",
+        "country": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -88.127995,
+          35.63778
+        ],
+        "type": "Point"
+      },
+      "id": "ce8b4528ce040c57fa32b7550922ea3f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iata": "0A3",
+        "title": "Smithville Municipal",
+        "city": "Smithville",
+        "state": "TN",
+        "country": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -85.809318,
+          35.985311
+        ],
+        "type": "Point"
+      },
+      "id": "cead6a210e589ef08a719ba2845781e7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iata": "00R",
+        "title": "Livingston Municipal",
+        "city": "Livingston",
+        "state": "TX",
+        "country": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -95.017927,
+          30.685861
+        ],
+        "type": "Point"
+      },
+      "id": "cf02fc770641737f13afdbc3ca94ebd4"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iata": "1N7",
+        "title": "Blairstown",
+        "city": "Blairstown",
+        "state": "NJ",
+        "country": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -74.997475,
+          40.971145
+        ],
+        "type": "Point"
+      },
+      "id": "d303c3edad1808982057ae525f2b4a76"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iata": "0C0",
+        "title": "Dacy",
+        "city": "Chicago/Harvard",
+        "state": "IL",
+        "country": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -88.633432,
+          42.404185
+        ],
+        "type": "Point"
+      },
+      "id": "d40954453b9cf65b1dcb4215c68fa995"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iata": "1G3",
+        "title": "Kent State University",
+        "city": "Kent",
+        "state": "OH",
+        "country": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -81.416583,
+          41.151861
+        ],
+        "type": "Point"
+      },
+      "id": "d4d7405fd94ac6072acd7443d02e70fe"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iata": "03D",
+        "title": "Memphis Memorial",
+        "city": "Memphis",
+        "state": "MO",
+        "country": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -92.22696,
+          40.447258
+        ],
+        "type": "Point"
+      },
+      "id": "d4dbb4194bcbfdc2d87b3be77ceb94a9"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iata": "1D3",
+        "title": "Platte Municipal",
+        "city": "Platte",
+        "state": "SD",
+        "country": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -98.829529,
+          43.403328
+        ],
+        "type": "Point"
+      },
+      "id": "d6f3d9de1684d94a00e2251005e74d38"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iata": "09A",
+        "title": "Butler-Choctaw County",
+        "city": "Butler",
+        "state": "AL",
+        "country": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -88.127462,
+          32.119313
+        ],
+        "type": "Point"
+      },
+      "id": "dabe65568bfc31e2fec7f7ccf13736aa"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iata": "01J",
+        "title": "Hilliard Airpark",
+        "city": "Hilliard",
+        "state": "FL",
+        "country": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -81.905943,
+          30.688012
+        ],
+        "type": "Point"
+      },
+      "id": "dc24ee973da3c72326933423eeed258c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iata": "07F",
+        "title": "Gladewater Municipal",
+        "city": "Gladewater",
+        "state": "TX",
+        "country": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -94.971745,
+          32.528838
+        ],
+        "type": "Point"
+      },
+      "id": "de492e230238133624bf94f965e4e55e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iata": "0B5",
+        "title": "Turners Falls",
+        "city": "Montague",
+        "state": "MA",
+        "country": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -72.522754,
+          42.591363
+        ],
+        "type": "Point"
+      },
+      "id": "e01230cfdc91c38b4e86c1be104d72b3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iata": "10U",
+        "title": "Owyhee",
+        "city": "Owyhee",
+        "state": "NV",
+        "country": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -116.187601,
+          41.953233
+        ],
+        "type": "Point"
+      },
+      "id": "e12784be321ae9ce6070504b22f9e166"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iata": "1I9",
+        "title": "Delphi Municipal",
+        "city": "Delphi",
+        "state": "IN",
+        "country": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -86.681671,
+          40.542814
+        ],
+        "type": "Point"
+      },
+      "id": "e1aa6e7a6d5ea338aecb470df7d6e85f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iata": "1H3",
+        "title": "Linn State Tech. College",
+        "city": "Linn",
+        "state": "MO",
+        "country": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -91.815316,
+          38.471494
+        ],
+        "type": "Point"
+      },
+      "id": "e224522efd05b85568485876b4f6aa17"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iata": "1C5",
+        "title": "Clow",
+        "city": "Chicago/Plainfield",
+        "state": "IL",
+        "country": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -88.12923,
+          41.695974
+        ],
+        "type": "Point"
+      },
+      "id": "e37cdf4a29faf1405f1e6f8097b64506"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iata": "14J",
+        "title": "Carl Folsom",
+        "city": "Elba",
+        "state": "AL",
+        "country": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -86.088835,
+          31.409888
+        ],
+        "type": "Point"
+      },
+      "id": "e457d79bfd6badc624bd7a6e3e378820"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iata": "0L5",
+        "title": "Goldfield",
+        "city": "Goldfield",
+        "state": "NV",
+        "country": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -117.238411,
+          37.717988
+        ],
+        "type": "Point"
+      },
+      "id": "e47bd164d929fc3a2c0b651b506aade6"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iata": "0F7",
+        "title": "Fountainhead Lodge Airpark",
+        "city": "Eufaula",
+        "state": "OK",
+        "country": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -95.601651,
+          35.388988
+        ],
+        "type": "Point"
+      },
+      "id": "e4d538d4256bf4cb6eea9642b32178cd"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iata": "1R7",
+        "title": "Brookhaven-Lincoln County",
+        "city": "Brookhaven",
+        "state": "MS",
+        "country": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -90.409315,
+          31.605847
+        ],
+        "type": "Point"
+      },
+      "id": "e58132266fee5b7a3c84fd23478eb903"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iata": "1M4",
+        "title": "Posey",
+        "city": "Haleyville",
+        "state": "AL",
+        "country": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.600441,
+          34.280348
+        ],
+        "type": "Point"
+      },
+      "id": "e7de1d5361a723f0d832aa29d23514ef"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iata": "1I5",
+        "title": "Freehold",
+        "city": "Freehold",
+        "state": "NY",
+        "country": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -74.065968,
+          42.36425
+        ],
+        "type": "Point"
+      },
+      "id": "e8e249a2142bc41b89075857fe6dcafe"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iata": "1S5",
+        "title": "Sunnyside Municipal",
+        "city": "Sunnyside",
+        "state": "WA",
+        "country": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -119.970596,
+          46.327631
+        ],
+        "type": "Point"
+      },
+      "id": "ed124f66fc3b90482051e3ab1a908ffe"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iata": "1O2",
+        "title": "Lampson",
+        "city": "Lakeport",
+        "state": "CA",
+        "country": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -122.899717,
+          38.990174
+        ],
+        "type": "Point"
+      },
+      "id": "ef214219e5f3fe7d3afcfddd10af9fc4"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iata": "1F1",
+        "title": "Lake Murray State Park",
+        "city": "Overbrook",
+        "state": "OK",
+        "country": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -97.106679,
+          34.075096
+        ],
+        "type": "Point"
+      },
+      "id": "f1660c7a990c6476f2e3a436f93c6635"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iata": "08M",
+        "title": "Carthage-Leake County",
+        "city": "Carthage",
+        "state": "MS",
+        "country": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -89.530071,
+          32.761246
+        ],
+        "type": "Point"
+      },
+      "id": "f2fc5a60ca1762b6aa2ca02682c138d2"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iata": "1A3",
+        "title": "Martin Campbell",
+        "city": "Copperhill",
+        "state": "TN",
+        "country": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -84.34631,
+          35.016191
+        ],
+        "type": "Point"
+      },
+      "id": "f338dabcbd12ed9030df7b024ccc6e03"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iata": "0E8",
+        "title": "Crownpoint",
+        "city": "Crownpoint",
+        "state": "NM",
+        "country": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -108.201596,
+          35.717658
+        ],
+        "type": "Point"
+      },
+      "id": "f5cedb9a46c3f758e590b8ff98b415d9"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iata": "1N9",
+        "title": "Allentown Queen City Muni",
+        "city": "Allentown",
+        "state": "PA",
+        "country": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -75.488305,
+          40.570277
+        ],
+        "type": "Point"
+      },
+      "id": "fa5d2d1b8c4157d352cf79dae96af6f5"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iata": "02A",
+        "title": "Gragg-Wade",
+        "city": "Clanton",
+        "state": "AL",
+        "country": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -86.611453,
+          32.850486
+        ],
+        "type": "Point"
+      },
+      "id": "fb708742b094327d70e8ecc57a98edf4"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iata": "0I8",
+        "title": "Cynthiana-Harrison County",
+        "city": "Cynthiana",
+        "state": "KY",
+        "country": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -84.2841,
+          38.366741
+        ],
+        "type": "Point"
+      },
+      "id": "fd1a878f019c1e1b29af7ee93b0b23f5"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iata": "1L0",
+        "title": "St. John the Baptist Parish",
+        "city": "Reserve",
+        "state": "LA",
+        "country": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -90.582665,
+          30.087208
+        ],
+        "type": "Point"
+      },
+      "id": "fd723c51d4662004272f96641043c9c4"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iata": "0O4",
+        "title": "Corning Municipal",
+        "city": "Corning",
+        "state": "CA",
+        "country": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -122.171378,
+          39.943768
+        ],
+        "type": "Point"
+      },
+      "id": "fec0a5dab7e7f61882913009848e16b4"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iata": "1O4",
+        "title": "Thomas Municipal",
+        "city": "Thomas",
+        "state": "OK",
+        "country": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -98.730638,
+          35.733382
+        ],
+        "type": "Point"
+      },
+      "id": "ff4695bc4b8a1172947d61935669e60d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iata": "12D",
+        "title": "Tower Municipal",
+        "city": "Tower",
+        "state": "MN",
+        "country": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -92.291666,
+          47.818333
+        ],
+        "type": "Point"
+      },
+      "id": "ffc235caaede9f56e27d380fab978024"
+    }
+  ],
+  "type": "FeatureCollection"
+}
